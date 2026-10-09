@@ -22,6 +22,7 @@ A dark, neon-styled gaming hub starter built with Node.js, Express, Socket.IO, H
    ```
 5. Open http://localhost:3000 in your browser.
 
+Note: You can run it from here also- https://playverse-multiplayer-0zib.onrender.com/
 ## Test multiplayer
 1. Keep the server terminal open.
 2. Open http://localhost:3000 in two or more browser windows/devices on the same network.
